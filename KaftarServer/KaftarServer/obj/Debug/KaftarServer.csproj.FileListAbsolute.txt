@@ -1,0 +1,6 @@
+C:\Users\eren\Desktop\KaftarServer\KaftarServer\bin\Debug\KaftarServer.exe.config
+C:\Users\eren\Desktop\KaftarServer\KaftarServer\bin\Debug\KaftarServer.exe
+C:\Users\eren\Desktop\KaftarServer\KaftarServer\bin\Debug\KaftarServer.pdb
+C:\Users\eren\Desktop\KaftarServer\KaftarServer\obj\Debug\KaftarServer.csprojResolveAssemblyReference.cache
+C:\Users\eren\Desktop\KaftarServer\KaftarServer\obj\Debug\KaftarServer.exe
+C:\Users\eren\Desktop\KaftarServer\KaftarServer\obj\Debug\KaftarServer.pdb
